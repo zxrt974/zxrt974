@@ -9,7 +9,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F454%2F124454-middle.png&f=1&nofb=1&ipt=598bb27094c7e028494043e166386f9e7f7630ed31812cf278f653534230c3a0" height="40" alt="arch linux"  />
+ /* <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F454%2F124454-middle.png&f=1&nofb=1&ipt=598bb27094c7e028494043e166386f9e7f7630ed31812cf278f653534230c3a0" height="40" alt="arch linux"  />
+  */
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
   <img width="12" />
