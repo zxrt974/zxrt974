@@ -4,9 +4,9 @@
   <img src = "https://i.pinimg.com/originals/5f/66/b7/5f66b7d1677c4044e6204f7a88c0f295.gif" height="1000" width="1000" alt="nice gif">
 </div>
 
+<hr>
 
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
  <!-- <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.pngaaa.com%2F454%2F124454-middle.png&f=1&nofb=1&ipt=598bb27094c7e028494043e166386f9e7f7630ed31812cf278f653534230c3a0" height="40" alt="arch linux"  />
