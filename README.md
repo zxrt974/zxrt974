@@ -9,7 +9,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
-  <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F809%2F243%2Fpng-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail.png&f=1&nofb=1&ipt=27ca2f96b4452e8d3c4b616e81e0a75e6b37b431ac45fe77367299be1eda33b6" height="40" alt="arch linux"  />
+  <img src="https://w7.pngwing.com/pngs/809/243/png-transparent-arch-linux-tgz-linux-angle-triangle-logo-thumbnail.png" height="40" alt="arch linux"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
   <img width="12" />
