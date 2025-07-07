@@ -1,5 +1,10 @@
 ## Hi there 
 
+<div>
+  <img src = "https://i.pinimg.com/originals/5f/66/b7/5f66b7d1677c4044e6204f7a88c0f295.gif" alt="nice gif">
+</div
+
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
